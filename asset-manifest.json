@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07ec184b.css",
+    "main.js": "/static/js/main.98c70dc7.js",
+    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
+    "static/media/image 13.png": "/static/media/image 13.e5d1e1dab420825cef63.png",
+    "static/media/Mask Group (4).png": "/static/media/Mask Group (4).e937d3a1b9a3ea671bc1.png",
+    "static/media/image 6.png": "/static/media/image 6.9b74654cc9bc48df3123.png",
+    "static/media/Rectangle 41.png": "/static/media/Rectangle 41.d3229929cab1a135a35c.png",
+    "static/media/Rectangle 38.png": "/static/media/Rectangle 38.b100f76f42e1ef54a3a3.png",
+    "static/media/Rectangle 42.png": "/static/media/Rectangle 42.90c8ebda84b3511a1338.png",
+    "static/media/Rectangle 40.png": "/static/media/Rectangle 40.a4d1d0f45ba706fb7ff4.png",
+    "static/media/Rectangle 39 (1).png": "/static/media/Rectangle 39 (1).e8930788340d8699edbc.png",
+    "static/media/Glasses.png": "/static/media/Glasses.c8b4b860a729b29ea3cf.png",
+    "static/media/Watches.png": "/static/media/Watches.f8c50e7eac373cbe7996.png",
+    "static/media/image2.jpg": "/static/media/image2.5443a2fe5328b6227735.jpg",
+    "index.html": "/index.html",
+    "main.07ec184b.css.map": "/static/css/main.07ec184b.css.map",
+    "main.98c70dc7.js.map": "/static/js/main.98c70dc7.js.map",
+    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ec184b.css",
+    "static/js/main.98c70dc7.js"
+  ]
+}
